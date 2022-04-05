@@ -1,0 +1,9 @@
+Corn > Cairo - 0, Qina - 30, Ben seuif - 50
+Wheat > Cairo - 30, Qina - 40, Mahala - 60
+Cotton > kafr Al Sheikh - 40
+Watermelon > Domyat - 200
+Sugar Cane > Aswan - 100, Monofeya - 20
+Orange > Suiz - 10, Al Gharbeya - 100
+Apple > Al Ismaileya - 180
+Grape > Al Qaulyobeya - 280
+Kiwi > Al Sharqeya - 30
